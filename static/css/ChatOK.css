@@ -1,37 +1,31 @@
 body {
     font-family: sans-serif !important;
 }
-
 .bg-funky{
-background: #FF1744;
+    background: #696969;
 }	
   
 .heading {
     color: #fff;
     margin: 30px;
     font-weight: 600;
-}  
-img {
-    max-width: 100%;
 }
+  
+img {max-width: 100%;}
     
 .inbox_msg {
     border: 1px solid #c4c4c4;
     clear: both;
     overflow: hidden;
+    background: #4c4c4c;
 }
     
-.top_spac {
-    margin: 20px 0 0;
-}
+.top_spac{ margin: 20px 0 0;}
 
 
-.recent_heading {
-    float: left;
-    width:40%;
-}
+.recent_heading {float: left; width:40%;}
 
-.headind_srch {
+.headind_srch { 
     padding:10px 29px 10px 20px;
     overflow:hidden;
     border-bottom:1px solid #c4c4c4;
@@ -155,16 +149,4 @@ img {
 .msg_history {
     max-height: 516px;
     overflow-y: auto;
-}
-
-.credit {
-margin-bottom: 20px;
-margin-top: 20px;
-}
-
-.credit a {
-color: #fff;
-font-weight: 300;
-letter-spacing: 2px;
-border-bottom: dotted 1px;
 }
